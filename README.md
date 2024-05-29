@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vansh Bothra</h1>
 <h3 align="center">A passionate full stack developer from India, interested in UI/UX analysis.</h3>
-<img align="right" alt="Coding" width="400' src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif">
+<img align="right" alt="Coding" width="400' src="https://media.licdn.com/dms/image/C4E12AQGqXjmnyuB71g/article-cover_image-shrink_600_2000/0/1624433257039?e=2147483647&v=beta&t=Xm3dRN6delJi5D3Hl8l8ZYJYvUuSvuPzntU5W3KV6dg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshbothra&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbothra" /> </p>
 
