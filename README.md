@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshbothra&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbothra" /> </p>
 
-- 🔭 I’m currently working on **UI/UX analysis**
+- 🔭 I’m currently working on **UI/UX analysis & Post-Quantum Cryptography**
 
 - 🌱 I’m currently learning **flutter, cryptography**
 
