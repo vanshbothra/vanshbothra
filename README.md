@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **UI/UX analysis & Post-Quantum Cryptography**
 
-- 🌱 I’m currently learning **flutter, cryptography**
+- 🌱 I’m currently learning **electron, cryptography**
 
 - 👯 I’m looking to collaborate on **dev projects**
 
